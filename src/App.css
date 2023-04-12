@@ -1,0 +1,67 @@
+.App-header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #007bff;
+  color: white;
+  padding: 1%;
+  margin-bottom: 0.25%;
+  position: relative;
+}
+
+.App-content {
+  display: flex;
+  align-items: center;
+}
+
+.App-header-icon {
+  margin-right: 1vw;
+}
+
+.title {
+  font-size: 1.25vw;
+  margin: 0.25%;
+  font-weight: bold;
+}
+
+.textarea{
+  max-height: 20px;
+}
+
+.add-button {
+  position: absolute;
+  right: 1%;
+}
+
+.delete-button {
+  background-color: red !important;
+  border-color: red !important;
+  color: white !important;
+}
+
+.update-button {
+  background-color: blue;
+  border-color: blue;
+  color: white;
+}
+
+
+.icon-space {
+  margin-right: 0.5vw;
+}
+
+.App-header-icon {
+  font-size: 1.5vw;
+  margin-right: 1vw;
+  margin-bottom: 0.5%;
+}
+
+.cancel-button {
+  background-color: red !important;
+  border-color: red !important;
+  color: white !important;
+}
+
+.action-icon {
+  font-size: 1.0vw;
+}
